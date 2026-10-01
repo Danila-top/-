@@ -1,9 +1,16 @@
-# -
+# Scratch-lab
 
-A scratch/workspace repository for temporary experiments, prototypes, and test artifacts.
+Temporary workspace for prototypes, experiments, and ideas that have not yet earned a permanent home.
 
-## Rule
+## Graduation path
 
-Keep experiments isolated here before moving stable material into a dedicated repository.
+Prototype here first. When the result becomes stable:
 
-No secrets or private credentials should be committed.
+- agent design -> `AI-agents-laboratory`
+- memory/context -> `AI-memory-and-context`
+- integrations/tools -> `AI-tools-and-integrations`
+- ML experiment -> `Machine-learning-experiments`
+- multi-agent study -> `Multiagent-experiment`
+- publication material -> `AI-document-website`
+
+Keep temporary experiments disposable and never commit secrets.
