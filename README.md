@@ -14,3 +14,13 @@ Prototype here first. When the result becomes stable:
 - publication material -> `AI-document-website`
 
 Keep temporary experiments disposable and never commit secrets.
+
+## Lean / UCCAF
+
+The branch `lean-uccaf-poc` contains a first machine-checked UCCAF fragment:
+
+- Lean 4.34.0
+- pinned Mathlib revision
+- UCCI and KSI definitions
+- kernel-checked bound theorems
+- GitHub Actions CI
